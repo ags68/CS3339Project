@@ -1,0 +1,12 @@
+// Seed for random values
+77
+// Percent of instructions to be load/store (data dependency)
+40
+// Percent of instructions to be branch, jump, jal, or jr
+10
+// Number of instructions to generate
+100
+// Number of cycles to run
+1000
+// Cycle to print register contents
+473
